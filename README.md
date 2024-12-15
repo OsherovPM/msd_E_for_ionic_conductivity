@@ -1,1 +1,1 @@
-# msd_E_for_ionic_conductivity
+# Получение зависимости MSD<sub>E</sub>(t) с помощью модуля msd_E.py.
